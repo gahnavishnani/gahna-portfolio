@@ -11,7 +11,6 @@ import {
   Cloud,
   GitBranch,
   Layers3,
-  ShieldCheck,
   BarChart3,
   Terminal,
   Cpu,

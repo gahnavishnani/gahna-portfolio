@@ -13,8 +13,6 @@ import {
   BarChart3,
   Languages,
   FileSearch,
-  Volume2,
-  LockKeyhole,
 } from "lucide-react"
 
 gsap.registerPlugin(ScrollTrigger)
